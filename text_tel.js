@@ -1,15 +1,15 @@
-window.defaultNumber = '+1(888) 449-9371';
-window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1(888) 449-9371 to Freeze it!';
+window.defaultNumber = '+1(833) 926-2549';
+window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1(833) 926-2549 to Freeze it!';
 window.text = {
-    'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'perfectgirls.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'gotporn.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'anysex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'sex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 unlock it!',
-    'bravotube.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'mylust.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'manporn.xxx': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'anybunny.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'txxx.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!',
-    'findbestsolution.xyz': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 449-9371 to unlock it!'
+    'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'perfectgirls.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'gotporn.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'anysex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'sex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 unlock it!',
+    'bravotube.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'mylust.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'manporn.xxx': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'anybunny.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'txxx.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!',
+    'findbestsolution.xyz': 'Your |%model%| Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(833) 926-2549 to unlock it!'
 };
